@@ -1,0 +1,3 @@
+venv
+lessons/__pycache__
+lessons/secret.py
